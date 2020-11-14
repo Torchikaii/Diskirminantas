@@ -1,0 +1,2 @@
+Vietoj 3,5 rašyti -> 3.5
+Kablelių programa nepriima, tik taškus.
